@@ -1,0 +1,6 @@
+customhost = "aws-db.cdqjukplmqpo.us-east-2.rds.amazonaws.com"
+customuser = "admin"
+custompass = "password"
+customdb = "employee"
+custombucket = "db-of-s3"
+customregion = "us-east-2"
